@@ -4,7 +4,7 @@ App using the YouTube API for lighter-faster search. Developed for personal-inst
 
 
 ####Installation#####
-	> git clone git@github.com:tirkits/PersonalYouTube.git
+	> git clone https://github.com/tirkits/PersonalYouTube.git
 	> cd PersonalYoutube
 	> npm install
 	> npm start
